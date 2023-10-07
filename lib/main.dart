@@ -5,7 +5,9 @@ void main() {
   runApp(const MaterialApp(
     title: 'Yahtzee',
     home: Scaffold(
-      body: Yahtzee()
+      body: Center(
+        child: Yahtzee(),
+      ),
     ),
   ));
 }

@@ -1,3 +1,5 @@
+// THIS MODEL WAS GIVEN BY THE PROFESSOR. NEVER USED IT.
+
 import 'package:collection/collection.dart';
 
 
